@@ -1,11 +1,12 @@
 대규모점포정보.csv
 
-생성 data/*
+가공 data/*
 convenience_store_data.csv
 food_industry_data.csv
 sports_center_data.csv
 department_data.csv
 
+활용 data/*
 상가정보 data/*
 상가정보_경기.csv
 상가정보_강원.csv
